@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "526335018501",
+    "firebase_url": "https://itiraffm-c95b1.firebaseio.com",
+    "project_id": "itiraffm-c95b1",
+    "storage_bucket": "itiraffm-c95b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526335018501:android:ec71fb05b30acbffae3e6c",
+        "android_client_info": {
+          "package_name": "com.erenyel.itiraffm_giris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526335018501-sobokq4linh9bra2r3v2a4g18mnf33u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz13jpPTruMTdDrOdFq1hrr3xxZJ5dmIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526335018501-sobokq4linh9bra2r3v2a4g18mnf33u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

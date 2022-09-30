@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recycler_row" type="id" />
+    <item name="recycler_row_rumuz_text" type="id" />
+    <item name="recyclerView_row_itiraf_text" type="id" />
+    <item name="recyclerView_row_rumuz_text" type="id" />
+</resources>

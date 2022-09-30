@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/recycler_row"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/Rumuzlar_Text"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
+        android:text="Rumuzunuz"
+        android:background="#9C27B0"
+        android:textColor="#F8AE41"
+        android:textColorHighlight="#F8AE41"
+        android:textColorHint="#F8AE41"
+        android:textColorLink="#F8AE41" />
+
+    <TextView
+        android:id="@+id/Itiraflar_Text"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
+        android:text="İtirafınız"
+        android:textColor="#9C27B0"
+        android:textColorHighlight="#9C27B0"
+        android:textColorHint="#9C27B0"
+        android:textColorLink="#9C27B0" />
+</LinearLayout>
